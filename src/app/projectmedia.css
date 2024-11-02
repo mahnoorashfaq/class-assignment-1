@@ -1,0 +1,429 @@
+@media (max-width:1700px) {
+    .Project-container{
+       height: fit-content;
+      }
+      .project-flex{
+        height: fit-content;
+        column-gap: 50px;
+        row-gap: 50px;
+      }
+      .item1{
+        width: 625px;
+        height: 350px;
+      }
+      .item2{
+        width: 625px;
+        height: 350px;
+      }
+      .item3{
+        width: 300px;
+        height: 350px;
+      }
+      .item4{
+        width: 500px;
+        height: 350px;
+      }
+      .item5{
+        width: 400px;
+        height: 350px;
+      }
+}
+@media (max-width:1500px) {
+      .project-flex{
+        column-gap: 50px;
+        row-gap: 50px;
+      }
+      .item1{
+        width: 575px;
+        height: 300px;
+      }
+      .item2{
+        width: 575px;
+        height: 300px;
+      }
+      .item3{
+        width: 300px;
+        height: 300px;
+      }
+      .item4{
+        width: 450px;
+        height: 300px;
+      }
+      .item5{
+        width: 350px;
+        height: 300px;
+      }
+}
+@media (max-width:1400px) {
+    .project-flex{
+      column-gap: 30px;
+      row-gap: 30px;
+    }
+    .pro-heading{
+        font-size: 50px;
+      }
+    .item1{
+      width: 525px;
+      height: 300px;
+    }
+    .item2{
+      width: 525px;
+      height: 300px;
+    }
+    .item3{
+      width: 270px;
+      height: 300px;
+    }
+    .item4{
+      width: 450px;
+      height: 300px;
+    }
+    .item5{
+      width: 300px;
+      height: 300px;
+    }
+    .all-pro-btn{
+        height: 50px;
+        width: 170px;
+       margin-top: 20px;
+        padding: 10px 10px 10px 10px;
+       font-size: 13px;
+       }
+}
+@media (max-width:1280px) {
+    .Project-container{
+       padding-left: 90px;
+       padding-right: 90px;
+       padding-top: 40px;
+       padding-bottom: 40px;
+      }
+    .project-flex{
+      column-gap: 30px;
+      row-gap: 30px;
+    }
+    .pro-heading{
+        font-size: 50px;
+      }
+    .item1{
+      width: 475px;
+      height: 255px;
+    }
+    .item2{
+      width: 475px;
+      height: 255px;
+    }
+    .item3{
+      width: 240px;
+      height: 255px;
+    }
+    .item4{
+      width: 400px;
+      height: 255px;
+    }
+    .item5{
+      width: 280px;
+      height: 255px;
+    }
+}
+@media (max-width:1180px) {
+    .project-flex{
+      column-gap: 20px;
+      row-gap: 20px;
+    }
+    .pro-heading{
+        font-size: 45px;
+        padding-bottom: 10px;
+      }
+    .item1{
+      width: 425px;
+      height: 255px;
+    }
+    .item2{
+      width: 425px;
+      height: 255px;
+    }
+    .item3{
+      width: 220px;
+      height: 255px;
+    }
+    .item4{
+      width: 360px;
+      height: 255px;
+    }
+    .item5{
+      width: 250px;
+      height: 255px;
+    }
+}
+@media (max-width:1180px) {
+    .project-flex{
+      column-gap: 20px;
+      row-gap: 20px;
+    }
+    .pro-heading{
+        font-size: 45px;
+      }
+    .item1{
+      width: 500px;
+      height: 255px;
+    }
+    .item2{
+      width: 500px;
+      height: 255px;
+    }
+    .item3{
+      width: 500px;
+      height: 255px;
+    }
+    .item4{
+      width: 500px;
+      height: 255px;
+    }
+    .item5{
+      width: 500px;
+      height: 255px;
+    }
+    .all-pro-btn{
+        height: 45px;
+        width: 150px;
+       margin-top: 20px;
+        padding: 8px 8px 8px 8px;
+       font-size: 13px;
+       }
+}
+@media (max-width:697px) {
+    .Project-container{
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+       }
+    .project-flex{
+      column-gap: 20px;
+      row-gap: 20px;
+    }
+    .pro-heading{
+        font-size: 40px;
+      }
+    .item1{
+      width: 400px;
+      height: 200px;
+    }
+    .item2{
+      width: 400px;
+      height: 220px;
+    }
+    .item3{
+      width: 400px;
+      height: 220px;
+    }
+    .item4{
+      width: 400px;
+      height: 220px;
+    }
+    .item5{
+      width: 400px;
+      height: 220px;
+    }
+    .all-pro-btn{
+        height: 40px;
+        width: 120px;
+       margin-top: 20px;
+        padding: 8px 8px 8px 8px;
+       font-size: 12px;
+       }
+}
+@media (max-width:600px) {
+    .pro-heading{
+        font-size: 38px;
+      }
+    .item1{
+      width: 350px;
+      height: 200px;
+    }
+    .item2{
+        width: 350px;
+        height: 200px;
+    }
+    .item3{
+        width: 350px;
+        height: 200px;
+    }
+    .item4{
+        width: 350px;
+        height: 200px;
+    }
+    .item5{
+        width: 350px;
+        height: 200px;
+    }
+    .all-pro-btn{
+        height:35px;
+        width: 100px;
+       margin-top: 15px;
+        padding: 8px 8px 8px 8px;
+       font-size: 11px;
+       }
+}
+@media (max-width:540px) {
+    .project-flex{
+        column-gap: 10px;
+        row-gap: 10px;
+      }
+    .pro-heading{
+        font-size: 35px;
+      }
+    .item1{
+      width: 300px;
+      height: 180px;
+    }
+    .item2{
+        width: 300px;
+        height: 180px;
+    }
+    .item3{
+        width: 300px;
+        height: 180px;
+    }
+    .item4{
+        width: 300px;
+        height: 180px;
+    }
+    .item5{
+        width: 300px;
+        height: 180px;
+    }
+    .all-pro-btn{
+        height:30px;
+        width: 100px;
+       margin-top: 10px;
+        padding: 8px 8px 8px 8px;
+       font-size: 10px;
+       }
+}
+@media (max-width:450px) {
+    .Project-container{
+        padding-left: 50px;
+        padding-right: 50px;
+       }
+    .project-flex{
+        row-gap: 8px;
+      }
+    .pro-heading{
+        font-size: 30px;
+        padding-bottom: 5px;
+      }
+    .item1{
+      width: 250px;
+      height: 150px;
+    }
+    .item2{
+        width: 250px;
+        height: 150px;
+    }
+    .item3{
+        width: 250px;
+        height: 150px;
+    }
+    .item4{
+        width: 250px;
+        height: 150px;
+    }
+    .item5{
+        width: 250px;
+        height: 150px;
+    }
+    .all-pro-btn{
+        height:25px;
+        width: 80px;
+       margin-top: 10px;
+        padding: 5px 5px 5px 5px;
+       font-size: 8px;
+       }
+}
+@media (max-width:380px) {
+    .Project-container{
+        padding-left: 40px;
+        padding-right: 40px;
+       }
+    .project-flex{
+        row-gap: 6px;
+      }
+    .pro-heading{
+        font-size: 25px;
+      }
+    .item1{
+      width: 250px;
+      height: 120px;
+    }
+    .item2{
+        width: 250px;
+        height: 120px;
+    }
+    .item3{
+        width: 250px;
+        height: 120px;
+    }
+    .item4{
+        width: 250px;
+        height: 120px;
+    }
+    .item5{
+        width: 250px;
+        height: 120px;
+    }
+    .all-pro-btn{
+        height:20px;
+        width: 70px;
+       margin-top: 10px;
+        padding: 5px 5px 5px 5px;
+       font-size: 7px;
+       }
+}
+@media (max-width:340px) {
+    .Project-container{
+        padding-left: 30px;
+        padding-right: 30px;
+       }
+    .project-flex{
+        row-gap: 5px;
+      }
+    .pro-heading{
+        font-size: 18px;
+      }
+    .item1{
+      width: 250px;
+      height: 100px;
+    }
+    .item2{
+        width: 250px;
+        height: 100px;
+    }
+    .item3{
+        width: 250px;
+        height: 100px;
+    }
+    .item4{
+        width: 250px;
+        height: 100px;
+    }
+    .item5{
+        width: 250px;
+        height: 100px;
+    }
+    .all-pro-btn{
+        height:17px;
+        width: 60px;
+       margin-top: 10px;
+        padding: 5px 5px 5px 5px;
+       font-size: 5px;
+       }
+}
+@media (max-width:297px) {
+    .project-flex{
+        row-gap: 5px;
+      }
+    .pro-heading{
+        font-size: 15px;
+      }
+}
