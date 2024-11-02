@@ -5,7 +5,6 @@ import { FaFacebookF } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaPinterestP } from "react-icons/fa";
-import { GiWhiteBook } from "react-icons/gi";
 export default function Footer(){
     return(
         <section className="footer-container">
