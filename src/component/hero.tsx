@@ -7,7 +7,7 @@ export default function Hero(){
     <p className="hero-h2">Lorum</p>
    </div>
    <div className="right-hero">
-    <button className="view-container"><a href="/project">VIEW PROJECT&nbsp;&nbsp;&nbsp;<FaArrowRightLong /></a></button>
+    <button className="view-container"><a href='/project'>VIEW PROJECT&nbsp;&nbsp;&nbsp;<FaArrowRightLong /></a></button>
    </div>
    </section>
     )

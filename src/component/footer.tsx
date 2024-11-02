@@ -12,11 +12,11 @@ export default function Footer(){
             <div className="Logo-footer"></div>
             <div className="footer-content">
                 <p>Information</p>
-                <li><a href="./">Main</a></li>
-                <li><a href="/gallery">Gallery</a></li>
-                <li><a href="/project">Projects</a></li>
-                <li><a href="/certification">Certifications</a></li>
-                <li><a href="/contact">Contacts</a></li>
+                <li><a href='#'>Main</a></li>
+                <li><a href='/gallery'>Gallery</a></li>
+                <li><a href='/project'>Projects</a></li>
+                <li><a href='/certification'>Certifications</a></li>
+                <li><a href='/contact'>Contacts</a></li>
             </div>
             <div className="footer-content">
                 <p>Contacts</p>
