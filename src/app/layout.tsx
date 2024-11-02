@@ -1,4 +1,3 @@
-import Document, { Html, Head, Main, NextScript } from 'next/document';
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
@@ -36,8 +35,6 @@ export default function RootLayout({
       > <Navbar />
         {children}
       <Footer />
-      <Main />
-          <NextScript />
       </body>
     </html>
   );
