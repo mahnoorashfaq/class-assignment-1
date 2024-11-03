@@ -1,13 +1,12 @@
 /* @tailwind base;
 @tailwind components;
 @tailwind utilities; */
-
 *{
   text-decoration: none;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: Roboto;
+  font-family: "Roboto", serif;
   list-style: none;
 }
 /* Nav css */
