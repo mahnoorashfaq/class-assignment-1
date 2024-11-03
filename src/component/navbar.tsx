@@ -3,7 +3,7 @@ import { RxHamburgerMenu } from "react-icons/rx";
 export default function Navbar(){
     return(
         <header className="header-container">
-    <div className="logo"></div>
+    <div className="logo"><a href='/'></a></div>
 <div className="nav-container">
 <li className="nav-main"><a href='/'>Main</a></li>
 <li><a href='/gallery'>Gallery</a></li>
