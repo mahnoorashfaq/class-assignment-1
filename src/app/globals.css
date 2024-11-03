@@ -6,7 +6,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Roboto", serif;
+  font-family: "Roboto";
   list-style: none;
 }
 /* Nav css */
@@ -342,6 +342,7 @@ flex-wrap: wrap;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
+
 .foam-container p{
   font-size: 50px;
   padding-bottom: 10px;
@@ -351,6 +352,7 @@ flex-wrap: wrap;
 #input{
   height: 46px;
   width: 400px;
+  font-size: 15px;
  margin-bottom: 10px;
   padding-left: 10px;
   border: 2px solid white;
@@ -359,6 +361,7 @@ flex-wrap: wrap;
 #textarea{
   width: 400px;
   height: 146px;
+  font-size: 15px;
   padding-left: 10px;
   padding-top: 10px;
   margin-top: 10px;

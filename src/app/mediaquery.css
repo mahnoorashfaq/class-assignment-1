@@ -585,12 +585,14 @@ width: 500px;
     #input{
       height: 40px;
       width: 350px;
+      font-size: 13px;
      margin-bottom: 10px;
       padding-left: 10px;
     }
     #textarea{
       width: 350px;
       height: 146px;
+      font-size: 13px;
       padding-left: 10px;
       padding-top: 10px;
       margin-top: 10px;
@@ -898,6 +900,12 @@ width: 100%;
 .certificationh2{
   font-size: 45px;
 }
+#input{
+font-size: 12px;
+}
+#textarea{
+  font-size: 12px;
+  }
  /* Sample Project Css */
  .sample1-container{
   padding-left: 70px;
@@ -1730,12 +1738,14 @@ width: 100%;
     #input{
       height: 38px;
       width: 300px;
+      font-size: 11px;
      margin-bottom: 10px;
       padding-left: 10px;
     }
     #textarea{
       width: 300px;
       height: 146px;
+      font-size: 11px;
       padding-left: 10px;
       padding-top: 10px;
       margin-top: 10px;
@@ -2261,12 +2271,14 @@ width: 100%;
     #input{
       height: 38px;
       width: 280px;
+      font-size: 10px;
      margin-bottom: 10px;
       padding-left: 10px;
     }
     #textarea{
       width: 280px;
       height: 146px;
+      font-size: 10px;
       padding-left: 10px;
       padding-top: 10px;
       margin-top: 10px;
@@ -2627,12 +2639,14 @@ width: 100%;
     #input{
       height: 38px;
       width: 260px;
+      font-size: 9px;
      margin-bottom: 10px;
       padding-left: 10px;
     }
     #textarea{
       width: 260px;
       height: 146px;
+      font-size: 9px;
       padding-left: 10px;
       padding-top: 10px;
       margin-top: 10px;

@@ -5,8 +5,7 @@ import Navbar from "@/component/navbar";
 import Footer from "@/component/footer"
 import "./mediaquery.css";
 import "./projectmedia.css";
-
-
+ 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
