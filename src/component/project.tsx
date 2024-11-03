@@ -7,14 +7,14 @@ export default function Project(){
   <div className="item1">
     <p>Sample <br />
     Project</p>
-    <a href='/project'>View&nbsp; More&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FaArrowRightLong /></a>
+    <a href="/project">View&nbsp; More&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FaArrowRightLong /></a>
   </div>
   <div className="item2"></div>
   <div className="item3"></div>
   <div className="item4"></div>
   <div className="item5"></div>
  </div>
- <button className="all-pro-btn"><a href='/project'>All Projects&nbsp;&nbsp;&nbsp;<FaArrowRightLong /></a></button>
+ <button className="all-pro-btn"><a href="/project">All Projects&nbsp;&nbsp;&nbsp;<FaArrowRightLong /></a></button>
     </section>
   )
 }
